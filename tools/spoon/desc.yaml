@@ -1,3 +1,7 @@
-title: Spoon Sprite Editor
-author: Wojciech Bocianski (bocianu)
-description: Native sprite editor for Neo6502 computer. It also contains T-Spoon - tile map editor.
+title: Spoon sprite & tiles editor
+author: Wojciech Bocianski (bocianu@gmail.com)
+description: >
+  A native sprite editor for the Neo6502 computer, 
+  featuring T-Spoon, a tile map editor. 
+  Spoon Sprite Editor allows you to edit 
+  hardware sprites, modify tiles, and adjust palette colors.
