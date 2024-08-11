@@ -1,0 +1,7 @@
+title: Prophet CLI
+author: Wojciech Bocianski (bocianu@gmail.com)
+description: >
+  A package manager that allows you to download 
+  a wide range of software for your Neo6502. 
+  A Wi-Fi module is required to connect to the 
+  network before using this software.

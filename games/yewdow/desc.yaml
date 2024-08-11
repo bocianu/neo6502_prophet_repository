@@ -1,0 +1,7 @@
+title: Yewdow
+author: Inufuto
+description: >
+  Place arrows to direct cars and pass all flags.
+  If the car goes off-screen or crashes into rocks, 
+  you fail. Cars will reverse upon hitting walls, 
+  but walls will disappear.

@@ -1,1 +1,5 @@
 title: Neo-Tetris
+author: Wojciech Bocianski (bocianu@gmail.com)
+description: >
+  A colorful Tetris clone written in Mad-Pascal. 
+  It can be controlled using either a keyboard or a gamepad.

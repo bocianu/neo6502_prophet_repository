@@ -1,0 +1,7 @@
+title: Swimo
+author: Wojciech Bocianski (bocianu@gmail.com)
+description: >
+  A cellular automata-type simulator where you manage 
+  a pond of swimming entities that search for food and 
+  breed to survive. By adjusting environmental settings 
+  or manually feeding them, you can influence their survival.
